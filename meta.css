@@ -1,0 +1,29 @@
+h2 {
+    text-align: center;
+}
+
+h1 {
+    color: gray;
+    text-align: left;
+    border-bottom:1px solid gray;
+}
+
+.line {
+    margin: 20px;
+}
+
+.interest {
+    text-align: left;
+}
+
+.t-left {
+    float: left;
+}
+
+.t-right {
+    float: right;
+}
+
+.left-right {
+    overflow: hidden;
+}
